@@ -7,6 +7,7 @@ __pycache__/
 *.pyc
 
 FULL_VIDEO_LBP_1080p60.mp4
+
 # Manim output
 media/
 videos/
